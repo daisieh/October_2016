@@ -6,7 +6,7 @@ Life Sciences Institute, University of British Columbia
 
 If you tweet, please use #VanGenHackathon
 
-**Please note that this is a dynamic document, and therefore subject to change at the discretion of the instructors.  **
+*Please note that this is a dynamic document, and therefore subject to change at the discretion of the instructors.*
 
 *Italicized text: Optional Items*
 
