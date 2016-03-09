@@ -1,7 +1,7 @@
 # Vancouver Genomics Hackathon
 
-We are having a Genomics Hackathon in Vancouver in October 2016! This repository will 
-function as the planning/resource repository for this event.
+We are having a Genomics Hackathon in Vancouver from October 15 - 17 2016! This repository 
+will function as the planning/resource repository for this event.
 
 This event will be modeled on the [NCBI hackathon](https://github.com/NCBI-Hackathons) format.
 
@@ -9,6 +9,7 @@ This event will be modeled on the [NCBI hackathon](https://github.com/NCBI-Hacka
 ## Steering Committee members
 
 Adriana Suarez-G / University of British Columbia / @AdriSuarezGonz
+
 Tiffany Timbers / Simon Fraser University / @TiffanyTimbers
 
 ## Sponsors
