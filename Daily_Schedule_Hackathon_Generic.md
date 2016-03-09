@@ -124,13 +124,13 @@ Life Sciences Institute, University of British Columbia
 
 * *6:00 - 7:30: DINNER*
 
-* *7:30 - 8:30: Implement any remaining code/start pipelines (remote is an option) <script building>*
+* *7:30 - 8:30: Implement any remaining code/start pipelines (remote is an option) *
 
 Day 2 -- Location
 
 * *8:30 - 9:00:  Breakfast on campus*
 
-* 9:00 - 9:15: Presentation: <Specific Resources>
+* 9:00 - 9:15: Presentation: Specific Resources
 
 * 9:15 - 12:30: Data cleanup, code fixing, and presentation generation
 
