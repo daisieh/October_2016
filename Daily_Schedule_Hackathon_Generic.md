@@ -118,7 +118,7 @@ Life Sciences Institute, University of British Columbia
 
 * Split into locations for teams (see team spreadsheet -- tab "locations)
 
-* 1:00 - 6:00: Pipeline building <script building>
+* 1:00 - 6:00: Pipeline building 
 
     * *VanGen-Steering Committee representatives present to help with pipelines*
 
