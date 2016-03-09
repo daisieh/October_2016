@@ -1,5 +1,7 @@
 # Daily Schedule for an Vancouver Genomics Hackathon!
 
+Saturday October 15 - Monday October 17, 2016
+
 Life Sciences Institute, University of British Columbia
 
 If you tweet, please use #VanGenHackathon
@@ -48,9 +50,7 @@ Six things for writers
 
 ## Schedule with times
 
-Saturday October 15 - Monday October 17, 2016 
- 
-Life Sciences Institute, University of British Columbia
+### Saturday October 15 
 
 * *8:30 - 9:00:  Breakfast on campus*
 
@@ -126,7 +126,7 @@ Life Sciences Institute, University of British Columbia
 
 * *7:30 - 8:30: Implement any remaining code/start pipelines (remote is an option) *
 
-Day 2 -- Location
+### Sunday October 16
 
 * *8:30 - 9:00:  Breakfast on campus*
 
@@ -144,7 +144,7 @@ Day 2 -- Location
 
 * *6:30 - 8:30: DINNER*
 
-Day 3 -- Location
+### Monday October 17
 
 * *8:30 - 9:00:  Breakfast on campus --  more opportunity for feedback on organizational structure and future projects*
 
