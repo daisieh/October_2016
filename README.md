@@ -20,6 +20,7 @@ Adriana Suarez-G / University of British Columbia / [@AdriSuarezGonz](https://tw
 
 [Galen Wright](http://t.co/Fm8Hy3gTIR) / University of British Columbia [@GalenWright](https://twitter.com/@GalenWright)
 
+[Artem Babaian](http://www.JobsInScience.ca) / University of British Columbia [@JobsInSci](https://twitter.com/JobsInSci)
 ## Sponsors
 
 UBC Life Sciences
