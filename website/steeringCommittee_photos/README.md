@@ -12,3 +12,5 @@ Artem Babaian - Grad Student in Medical Genetics, UBC
 Tiffany Timbers - Postdoc in Molecular Biology & Biochemistry, SFU
 
 Galen Wright - Postdoc in Medical Genetics, UBC
+
+Adriana Suarez-Gonzalez - PhD student UBC, Director Events SCWIST
