@@ -1,0 +1,73 @@
+## Brainstorming 
+
+### Launch date April 1st
+
+### Recruiting team leaders
+* Team leaders MUST have applied & submit projects by April 30th.
+* (link to Google Drive - invite Amy & Shaun & Santina)
+* Tiffany to present open call for team leaders at Next VanBUG
+* Shaun & Artem want to be team leaders
+* Artem has Google Sheet & link for people to submit applications for team leaders
+
+### Choose team participants
+* Deadline for applicants is June 30th
+
+### How to rank 
+* Bidirectional ranking (applicants rank projects, team leaders rank applicants).
+* "Participants" rank team leaders. That is how we choose team leaders. 
+* Then team leaders rank participants who want to work with them
+
+## Jobs
+
+* Team leaders liason (Britt & Catrina)
+	* form for team leaders (do you need access to HPC? If so connect with Shaun)
+	* advertising/recruiting team
+	* tell Shaun what to tell @ VanBUG advert pitch 
+	* provide Artem team leader details to put on website
+	* gather ideas from other steering commitee members for recruitment of team leaders
+	* make sure they have necessary documentation for participants
+	* recruit mentors? Floaters?
+	* desired skill set & number of participants
+		
+* Applicants liason (Santina)
+	* form for applicants leaders 
+	* tell Shaun what to tell @ VanBUG advert pitch
+	* content for advertisement 
+	
+* I/T & Ranking of peeps/data wrangling (Shaun)
+	* Speak at VanBUG to promote in April
+	* coordinate with Artem about technical implementation of google forms
+	* estimate costs for AWS & Google & Compute Canada
+	* Liason with LSC about wifi/internet for event
+
+* Website (Artem)
+	* key dates
+	* forms 
+	* schedule
+	* general description
+	
+* Public relations/Communications (Amy)
+	* Make Facebook page
+	* Make twitter account
+	* Collate email lists & send email blasts
+	* Make cohesive name before April 1st
+
+* Social (Galem)
+	* Draft logistics
+	
+* Fundraising/Treasurer (Adriana)
+	* Budget
+	* Find sources of funding 
+	* room for social?
+	
+* Logistics, food/room, infrastructure (Adriana & Bruno)
+	* Space needs for 100?
+	* access on weekends?
+	* coordinate with Shaun IT/wifi 
+	
+* Secretary (Tiffany)
+	* take notes, publish on Github
+	* Buy beers
+
+## Next meeting topics
+* agenda
