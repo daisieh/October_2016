@@ -8,9 +8,17 @@ This event will be modeled on the [NCBI hackathon](https://github.com/NCBI-Hacka
 
 ## Steering Committee members
 
-Adriana Suarez-G / University of British Columbia / @AdriSuarezGonz
+[Britt Drogemoller](http://t.co/f6qRW2ChTy) / University of British Columbia / [@brittdrog](https://twitter.com/brittdrog)
 
-Tiffany Timbers / Simon Fraser University / @TiffanyTimbers
+[Bruno Grande](https://t.co/B5pnNg2Pfw) / Simon Fraser University / [@grandebruno](https://twitter.com/grandebruno)
+
+Amy Lee / University of British Columbia / [@minisciencegirl](https://twitter.com/minisciencegirl)
+
+Adriana Suarez-G / University of British Columbia / [@AdriSuarezGonz](https://twitter.com/AdriSuarezGonz)
+
+[Tiffany Timbers](http://tiffanytimbers.com) / Simon Fraser University / [@TiffanyTimbers](https://twitter.com/TiffanyTimbers)
+
+[Galen Wright](http://t.co/Fm8Hy3gTIR) / University of British Columbia [@GalenWright](https://twitter.com/@GalenWright)
 
 ## Sponsors
 
