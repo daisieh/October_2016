@@ -8,4 +8,5 @@ I'll likely convert to black and white and crop to a circle around your face (li
 ## Name + affiliation
 
 Artem Babaian - Grad Student in Medical Genetics, UBC
+
 Tiffany Timbers - Postdoc in Molecular Biology & Biochemistry, SFU

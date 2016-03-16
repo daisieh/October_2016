@@ -5,6 +5,8 @@ will function as the planning/resource repository for this event.
 
 The website for the event lives here: http://www.hackseq.com/
 
+The twitter account for this event is [@hackseq](https://twitter.com/search?f=tweets&q=hackseq)
+
 This event will be modeled on the [NCBI hackathon](https://github.com/NCBI-Hackathons) format.
 
 
