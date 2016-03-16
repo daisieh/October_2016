@@ -10,3 +10,5 @@ I'll likely convert to black and white and crop to a circle around your face (li
 Artem Babaian - Grad Student in Medical Genetics, UBC
 
 Tiffany Timbers - Postdoc in Molecular Biology & Biochemistry, SFU
+
+Galen Wright - Postdoc in Medical Genetics, UBC
