@@ -3,9 +3,22 @@ Add things as needed (top = high priority)
 
 ### High Priority Tasks
 *Intro:
-- From previous materials. Feel free to edit: 
+Previous: 
 'Why: The rapid explosion in genomic data demands a foundation of reliable analytical tools in the context of specific research questions'
 'Goals: Our aim is to bring together a diverse pool of researchers from academia and industry to generate pipelines and software for the analysis of 'omics' data. All pipelines and software created will be added to the hackseq github repository and will contribute to the advancement of diverse research fields, including personalized medicine, environmental genomics, metagenomics and machine learning'
+New:
+## Catalyzing Bio+Informatics
+### We want to mix a diverse set of scientists to catalyze open & innovative solutions to today's biggest genomics problems.
+
++ Areas of focus include...
+    Personalized Genomics
+    Environmental + Metagenomics
+    Human Genome Variation
+    Applied Machine Learning / A.I.
+    Big Data Visualization + Interfacing
+    <$Your Idea Here>
+
+
 *The format:
 (refer to NCBI?)
 'This event is intended for students, postdocs and other investigators engaged in the use of pipelines for genomic analyses from next generation sequencing data and other omics data (eg. RNA-seq, proteomics, etc)' 
