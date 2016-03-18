@@ -2,53 +2,21 @@
 Add things as needed (top = high priority)
 
 ### High Priority Tasks
-*Intro:
-
-Previous: 
-'Why: The rapid explosion in genomic data demands a foundation of reliable analytical tools in the context of specific research questions'
-'Goals: Our aim is to bring together a diverse pool of researchers from academia and industry to generate pipelines and software for the analysis of 'omics' data. All pipelines and software created will be added to the hackseq github repository and will contribute to the advancement of diverse research fields, including personalized medicine, environmental genomics, metagenomics and machine learning'
-
-New:
-## Catalyzing Bio+Informatics
-### We want to mix a diverse set of scientists to catalyze open & innovative solutions to today's biggest genomics problems.
-
-+ Areas of focus include...
-    Personalized Genomics
-    Environmental + Metagenomics
-    Human Genome Variation
-    Applied Machine Learning / A.I.
-    Big Data Visualization + Interfacing
-    <$Your Idea Here>
-
-
-*The format:
-*Diagram:
-(could we include more info about the format and participants? (it seems that it is targeted at team leaders)
-(refer to NCBI?)
-- The front page one is absolute minimal on purpose. I've added more details to the FAQ and a seperate page on hackathon format.
-
-'This event is intended for students, postdocs and other investigators engaged in the use of pipelines for genomic analyses from next generation sequencing data and other omics data (eg. RNA-seq, proteomics, etc)' 
-'Groups of 5 participants will be formed for 20 teams, in the following sections: (TBA by team leaders). The working groups will build pipelines to analyze large datasets within a cloud infrastructure' 
-(should we add here a brief explanation on how we will be selecting projects and participants?)
-- added to faq
 
 * Who We Are Page
-- steering committee photos
-
-* Dates for hackathon
-- agenda graphics including (coming soon..)
+- Photos required from: Bruno, Shaun, Amy, Santina and Catrina
 
 * Team Leader Application Form (not website design)
 - For now I have email sign-ups for either Team Leaders or Collaborators
-- When the Team Leader / Participant Liasons finilize the forms they would like then I can make those go live and email the lists
+- When the Team Leader / Participant Liasons finilize the forms we can contact the email-list
 (we want to encourage female participation - maybe add female and male icons?)
 - need questions that Leader Liason would like to include
 - have Shaun check form for sorting compatibility later
 (could we have the forms appearing in different pages? - one for team leaders, one for participants)
-* Add partners and sponsors;
-- take from othe rdocument
+
+* Partners and Sponsors
+- Waiting on logos from: PMI(?), Bioinformatics.ca, ECOSCOPE
 
 ### Low Priority Tasks
 * Upkeep general descriptions
 * Compile useful tools that participants might need
-- 
