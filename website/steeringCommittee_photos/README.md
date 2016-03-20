@@ -5,9 +5,7 @@ Using your face is probably a good idea.
 
 I'll likely convert to black and white and crop to a circle around your face (like on github).
 
-## Name + affiliation
-
-| Name | Association
+| Name | Affiliation
 |------|------------
 | Artem Babaian | Grad Student in Medical Genetics, UBC
 | Tiffany Timbers | Postdoc in Molecular Biology & Biochemistry, SFU
