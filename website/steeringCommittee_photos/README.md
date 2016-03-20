@@ -16,3 +16,5 @@ Galen Wright - Postdoc in Medical Genetics, UBC
 Adriana Suarez-Gonzalez - PhD student UBC, Director Events SCWIST
 
 Britt Drogemoller - Postdoc in Pediatrics, UBC
+
+[Shaun Jackman](http://sjackman.ca) - PhD candidate, Bioinformatics, BC Cancer Agency Genome Sciences Centre, UBC
