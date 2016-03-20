@@ -7,14 +7,11 @@ I'll likely convert to black and white and crop to a circle around your face (li
 
 ## Name + affiliation
 
-Artem Babaian - Grad Student in Medical Genetics, UBC
-
-Tiffany Timbers - Postdoc in Molecular Biology & Biochemistry, SFU
-
-Galen Wright - Postdoc in Medical Genetics, UBC
-
-Adriana Suarez-Gonzalez - PhD student UBC, Director Events SCWIST
-
-Britt Drogemoller - Postdoc in Pediatrics, UBC
-
-[Shaun Jackman](http://sjackman.ca) - PhD candidate, Bioinformatics, BC Cancer Agency Genome Sciences Centre, UBC
+| Name | Association
+|------|------------
+| Artem Babaian | Grad Student in Medical Genetics, UBC
+| Tiffany Timbers | Postdoc in Molecular Biology & Biochemistry, SFU
+| Galen Wright| Postdoc in Medical Genetics, UBC
+| Adriana Suarez-Gonzalez | PhD student UBC, Director Events SCWIST
+| Britt Drogemoller | Postdoc in Pediatrics, UBC
+| [Shaun Jackman](http://sjackman.ca) | PhD candidate, Bioinformatics, BC Cancer Agency Genome Sciences Centre, UBC
