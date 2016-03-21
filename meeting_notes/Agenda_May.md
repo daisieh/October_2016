@@ -4,6 +4,7 @@ High Priority: HP
 Low Priority: LP
 
 ### 1. HP - AWS cloud credits - Shaun and Adriana
+See https://github.com/hackseq/October_2016/issues/6
 *deadline June 30 
 ### 2. HP - Logistics - Bruno and Adriana
 *look for product sponsors: eg redbull - monster, clif, terra chips, chipotle, chocolates?,...
