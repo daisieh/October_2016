@@ -35,6 +35,5 @@ Adriana Suarez-G / University of British Columbia / [@AdriSuarezGonz](https://tw
 
 ## Sponsors
 
-UBC Life Sciences
 
 *All materials in this repository fall under the [CC-0 License](LICENSE.md).*
