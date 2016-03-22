@@ -14,3 +14,4 @@ I'll likely convert to black and white and crop to a circle around your face (li
 | Britt Drogemoller | Postdoc in Pediatrics, UBC
 | [Shaun Jackman](http://sjackman.ca) | PhD candidate, Bioinformatics, BC Cancer Agency Genome Sciences Centre, UBC
 | Amy Lee | Postdoc in Microbiology and Immunology, UBC
+| [Bruno Grande](http://bgran.de) | PhD Student in Molecular Biology and Biochemistry, SFU
