@@ -8,7 +8,7 @@ See https://github.com/hackseq/October_2016/issues/6
 *deadline June 30 
 ### 2. HP - Logistics - Bruno and Adriana
 *look for product sponsors: eg redbull - monster, clif, terra chips, chipotle, chocolates?,...
-### 3. Team leader selection: Criteria - everyone  
+### 3. HP - Team leader selection: Criteria - everyone  
 *Academia, Industry, etc  
 ### 4. LP - non-profit: 
 *If we want to register a new non-profit in the future we’ll need: 
