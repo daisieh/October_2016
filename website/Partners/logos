@@ -1,1 +1,54 @@
+# Logo Code
 
+## Partner Image Sizes
+height = 200px
+
+## Foreground colour HTML: 454545
+
+## Code for Image Fade
+### Note: The black and white image should be a .PNG File with a transparent
+### background.
+
+<div id="cf">
+	<a href="http://www.<LINKURL>.com">
+        	<img class="BW" src="<URL for black+white image>" height="200" />
+        	<img class="COL" src="<URL for colour image >" height="200" />
+	</a>
+</div>
+
+
+## Custom CSS Code (Design > Custom CSS)
+
+#cf {
+  position:relative;
+  margin:0 auto;
+}
+
+#cf img {
+  position:absolute;
+  	margin-left:5px;
+	margin-right:5px;
+	margin-top:5px;
+	margin-bottom:5px;
+  -webkit-transition: opacity 0.5s ease-in-out;
+  -moz-transition: opacity 0.5s ease-in-out;
+  -o-transition: opacity 0.5s ease-in-out;
+  transition: opacity 0.5s ease-in-out;
+}
+
+#cf img.COL {
+  opacity: 0;
+}
+#cf img.COL:hover {
+  opacity: 1;
+}
+
+###
+
+
+<div id="cf">
+  <a href="http://www.JobsInScience.ca">
+        <img class="BW" src="http://static1.squarespace.com/static/56e4a3eb01dbae3492a238b0/t/56f9d2adb654f9c06ed568a8/1459212987575/jis_bw" height="200" />
+        <img class="COL" src="http://static1.squarespace.com/static/56e4a3eb01dbae3492a238b0/t/56f9d3020bb4ebd409afbcbc/1459213084883/jis_col" height="200" />
+  </a>
+</div>
