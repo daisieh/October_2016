@@ -16,3 +16,4 @@ I'll likely convert to black and white and crop to a circle around your face (li
 | Amy Lee | Postdoc in Microbiology and Immunology, UBC
 | [Bruno Grande](http://bgran.de) | PhD Student in Molecular Biology and Biochemistry, SFU
 | Catrina Loucks | PhD Student in Molecular Biology and Biochemistry, SFU
+| Santina Lin | MSc in Bioinformatics, UBC
