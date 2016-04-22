@@ -3,7 +3,10 @@
 10:00 AM PST on Google Hangouts
 
 Google hangout link: https://hangouts.google.com/call/fychc5zmkjd6rlbjvfaa37kqyme
+
+
 Etherpad: http://pad.software-carpentry.org/hackseq
+
 
 ## Items to discuss
 
