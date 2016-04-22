@@ -6,6 +6,9 @@ Google hangout link: https://hangouts.google.com/call/fychc5zmkjd6rlbjvfaa37kqym
 
 ## Items to discuss
 
+0. New Members
+ - Eva Yap from GSC is interested in helping. --> Promotion (?)
+
 1. Planning
  - we need to decide on firm dates for team leader project proposal, participant application, team selection, decision & notification of travel awards
  - Proposed dates from Shaun:
