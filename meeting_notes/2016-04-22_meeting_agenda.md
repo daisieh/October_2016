@@ -10,6 +10,8 @@ Etherpad: http://pad.software-carpentry.org/hackseq
 
 ## Items to discuss
 
+Items to discuss
+
 0. New Members
  - Eva Yap from GSC is interested in helping. --> Promotion (?)
 
@@ -40,7 +42,7 @@ Etherpad: http://pad.software-carpentry.org/hackseq
 3. Team leader selection criteria    
   - Academia, Industry, etc  - promote inclusivity and if it overcrowds academia team leaders then intervene 
   - Themes: health, environment, etc
-  - Applications from committee and/or partners  - approach Roche sequencing team and they will be sending technicians to ASH-G
+  - Applications from committee and/or partners - approach Roche sequencing team and they will be sending technicians to ASH-G
   
 4. Project scope & focus, and rubrics for judging
 - Bruno: Projects could be very diverse, how to judge different projects? Create an environment for people to have fun
@@ -63,7 +65,7 @@ Etherpad: http://pad.software-carpentry.org/hackseq
 7. Encouraging women 
   - gender balance when selecting projects & teams
   - child care
- - Code of conduct
+  - Code of conduct
   - http://www.ashedryden.com/blog/codes-of-conduct-101-faq
 - http://hackcodeofconduct.org/
   - Use of the term "hackathon"
@@ -75,4 +77,3 @@ Etherpad: http://pad.software-carpentry.org/hackseq
 
 Good resources for us:   
     https://hackathon.guide/    <- copy & paste, don't click  (Thanks!! :-P)
-    
