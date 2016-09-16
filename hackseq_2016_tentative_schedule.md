@@ -49,3 +49,4 @@ If you tweet, please use #Hackseq16
 | 3:30 PM | Team project prsentations (5 min each) | LSI, UBC |
 | 4:30 PM | Voting | LSI, UBC |
 | 4:45 PM | Presentation of People's Choice award for favourite project | LSI, UBC |
+| 5:00 PM | hackseq social | TBD |
