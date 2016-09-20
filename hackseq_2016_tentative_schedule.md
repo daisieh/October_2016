@@ -4,6 +4,17 @@ Saturday October 15 - Monday October 17, 2016
 
 Life Sciences Institute (LSI), University of British Columbia (UBC)
 
+Official Room bookings (aside from the East Atrium):
+
+SAT OCT 15, 2016
+Room 1416 8am-6pm 
+
+SUN OCT 16, 2016
+Room 1410 and Room 1330 (Auditorium) 8am - 6pm 
+
+MON OCT 17, 2016
+Room 1416 11am-6pm and Room 1330 (Auditorium) 2pm-8pm 
+
 If you tweet, please use #Hackseq16
 
 \* *Please note that this is a tentative schedule and therefore subject to change.*
