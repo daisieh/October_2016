@@ -1,7 +1,7 @@
 # Descriptions of the workshops and talks
 
 ## Saturday
-==============
+======
 ### Introduction to HGVS Nomenclature and the Python hgvs package
 _Reece Hart_
 
@@ -32,7 +32,7 @@ Workshop resources:
 [Slides](https://docs.google.com/presentation/d/1PAhuppzKQS2UM4urXlsU3m8EVa1tFeZ8MLGCQmS6Iv8/edit?usp=sharing ) and [Github repo](https://github.com/amanjeev/gitting-git-hackseq)
 
 ## Sunday
-==============
+======
 ### Bioinformatic solutions for variant calling within segmental duplications
 _Dan Kvitek_
 
@@ -54,7 +54,7 @@ Estimated time: 90-120 minutes
 Workshop resources: [Slides](https://www.dropbox.com/s/t2cnvstn5iyq7qn/MCM2016_VisRseq_Slides.pdf?dl=1) and [workshop materials](https://github.com/hyounesy/bioc2016.visrseq/blob/master/vignettes/bioc2016.visrseq.pdf)
 
 ## Monday
-==============
+======
 ### Can My Computer Read Those Papers For Me?
 _Jake Lever_
 
