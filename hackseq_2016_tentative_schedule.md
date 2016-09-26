@@ -34,7 +34,7 @@ If you tweet, please use #Hackseq16
 | 5:30 PM | Daily summary by teams and wrap-up | LSI, UBC |
 | 6:00 PM | hackseq social | TBD |
 
-**Workshops and Talks (Room 1416)**
+**Workshops and Talks (Room 1416)**  - see [more info](workshop_details.md#Saturday)
 
 | Time | Topic | Slides |
 |------|-------|---------|
@@ -55,7 +55,7 @@ If you tweet, please use #Hackseq16
 | 3:30 PM | Continue working in teams | LSI, UBC |
 | 5:30 PM | Daily summary by teams and wrap-up | LSI, UBC |
 
-**Workshops and Talks (Room 1410)**
+**Workshops and Talks (Room 1410)** - see [more info](workshop_details.md#Sunday)
 
 | Time | Topic | Slides |
 |------|-------|--------|
@@ -78,7 +78,7 @@ If you tweet, please use #Hackseq16
 | 4:45 PM | Presentation of People's Choice award for favourite project | LSI, UBC |
 | 5:00 PM | hackseq social | TBD |
 
-**Workshops and Talks (Room 1416)**
+**Workshops and Talks (Room 1416)** - see [more info](workshop_details.md#Monday)
 
 | Time | Topic | Slides |
 |------|-------|--------|
