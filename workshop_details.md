@@ -1,9 +1,9 @@
 # Descriptions of the workshops and talks
 
 ## Saturday
-
+==============
 ### Introduction to HGVS Nomenclature and the Python hgvs package
-_By Reece Hart_
+_Reece Hart_
 
 The [HGVS sequence variant nomenclature](http://varnomen.hgvs.org/) is a set of recommendations for presenting biological sequence variants to humans. Unfortunately, humans aren’t very good at distinguishing formats that are convenient for them from representations that are convenient for computers. As a result, humans put HGVS variant strings into databases and web pages and clinical reports, making it difficult to compute on these variants. The [Python hgvs package](https://bitbucket.org/biocommons/hgvs/) (Apache 2.0 license) parses, formats, validates, and shifts/normalizes variants, and projects (maps) variants between aligned sequences. An important distinguishing feature of the hgvs package is that it correctly handles cases in which the genomic and transcript sequences differ by substitutions or indels.
 
@@ -32,9 +32,9 @@ Workshop resources:
 [Slides](https://docs.google.com/presentation/d/1PAhuppzKQS2UM4urXlsU3m8EVa1tFeZ8MLGCQmS6Iv8/edit?usp=sharing ) and [Github repo](https://github.com/amanjeev/gitting-git-hackseq)
 
 ## Sunday
-
+==============
 ### Bioinformatic solutions for variant calling within segmental duplications
-_by Dan Kvitek_
+_Dan Kvitek_
 
 Segmental duplications (SegDups) are long DNA stretches of nearly identical sequence that occur two or more times in the genome, arising from duplication events that appear fixed in the population. SegDups complicate variant calling from short-read next-generation sequencing (NGS) data because sequence reads cannot be unambiguously aligned due to the shared sequence identity between SegDup regions. This makes clinical-grade variant calls in these regions difficult or impossible using NGS data and current variant identification approaches.
 We have developed a general method for identifying SNPs, indels and CNVs within SegDups. The method consists of two steps. The first step is a bioinformatics screen using NGS data in which sequence reads derived from both the clinical gene of interest and the SegDup are analyzed for the presence of variants using a reference sequence with the gene of interest present but the SegDup(s) masked. If no variants of interest are identified in the screen, no further work is required, and the sample is negative for variants across that gene. If variants of interest are identified, the variant location is disambiguated with additional laboratory assays such as long-range PCR or MLPA, if necessary.
@@ -46,7 +46,7 @@ Estimated time: 30-60 minutes
 Slides: Available later
 
 ### Making R packages accessible to non-programmer collaborators using the VisRseq platform
-_by Hamid Yournesy_
+_Hamid Yournesy_
 
 The goal of this workshop is to introduce the VisRseq, a software platform for analysis and visualization of NGS data. We will walk through the quick process of creating modules called R-apps from their R packages. This should be of most interest to bioinformaticians and package developers that develop R-based analysis tools and would like to make them accessible to their non-programmer collaborators or to the public without having to spend time on creating extensive graphical user interfaces. We will create diverse types of apps, from simple plotting (e.g. ggplot) to intermediate (e.g. clustering) to more advanced (e.g. edgeR and DEseq) packages. We will also see how several R-apps can be linked together to create more complex workflows. Participants will require having beginner knowledge of R and a machine with R and Java installation
 
@@ -54,9 +54,9 @@ Estimated time: 90-120 minutes
 Workshop resources: [Slides](https://www.dropbox.com/s/t2cnvstn5iyq7qn/MCM2016_VisRseq_Slides.pdf?dl=1) and [workshop materials](https://github.com/hyounesy/bioc2016.visrseq/blob/master/vignettes/bioc2016.visrseq.pdf)
 
 ## Monday
-
+==============
 ### Can My Computer Read Those Papers For Me?
-_By Jake Lever_
+_Jake Lever_
 
 How easy is it to build a new knowledgebase from scratch for a particular biological problem? I'll explore why you might want to do this and what technology exists for this problem. I'll focus on our approach using the VERSE tool and the concepts behind it.
 
@@ -64,7 +64,7 @@ Estimated time: 20-30 minutes
 Slides: Available later
 
 ### Designing and creating user interfaces and APIs for diverse genomic data sources
-_By Dandan Xu_
+_Dandan Xu_
 
 Estimated time: 15 - 30 minutes
 Slides: Available later
