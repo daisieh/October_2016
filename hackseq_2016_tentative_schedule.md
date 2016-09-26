@@ -35,12 +35,12 @@ If you tweet, please use #Hackseq16
 | 5:30 PM | Daily summary by teams and wrap-up | LSI, UBC |
 | 6:00 PM | hackseq social | TBD |
 
-**Workshops and Talks**
+**Workshops and Talks (Room 1416)**
 
-| Time | Topic | Speaker | Slides | Location |
-|------|-------|---------|-----------|----------|
-| 11:00 AM - 12:00 PM | Introduction to HGVS Nomenclature and the Python hgvs package | Reece Hart | Available later | Room 1416 |
-| 2:00 PM - 3:00 PM | Gitting Git: Beginner workshop with Git, Github | Amanjeev Sethi | [Google slides](https://docs.google.com/presentation/d/1PAhuppzKQS2UM4urXlsU3m8EVa1tFeZ8MLGCQmS6Iv8/edit?usp=sharing) |Room 1416 |
+| Time | Topic | Speaker | Slides |
+|------|-------|---------|-----------|
+| 11:00 AM - 12:00 PM | Introduction to HGVS Nomenclature and the Python hgvs package | Reece Hart | Available later |
+| 2:00 PM - 3:00 PM | Gitting Git: Beginner workshop with Git, Github | Amanjeev Sethi | [Google slides](https://docs.google.com/presentation/d/1PAhuppzKQS2UM4urXlsU3m8EVa1tFeZ8MLGCQmS6Iv8/edit?usp=sharing) |
 
 ### Sunday October 16
 
@@ -56,14 +56,16 @@ If you tweet, please use #Hackseq16
 | 3:30 PM | Continue working in teams | LSI, UBC |
 | 5:30 PM | Daily summary by teams and wrap-up | LSI, UBC |
 
-**Workshops and Talks**
+**Workshops and Talks (Room 1410)**
 
-| Time | Topic | Speaker | Slides | Location |
-|------|-------|---------|-----------|----------|
-| 11:00 AM - 12:00 PM | Bioinformatic solutions for variant calling within segmental duplications | Dan Kvitek | Available later | Room 1410 |
-| 2:00 PM - 3:30 PM | Making R packages accessible to non-programmer collaborators using the VisRseq platform | Hamid Yournesy  | [presentation slides](https://www.dropbox.com/s/t2cnvstn5iyq7qn/MCM2016_VisRseq_Slides.pdf?dl=1) and [workshop materials](https://github.com/hyounesy/bioc2016.visrseq/blob/master/vignettes/bioc2016.visrseq.pdf) | Room 1410 |
+| Time | Topic | Speaker | Slides | 
+|------|-------|---------|-----------|
+| 11:00 AM - 12:00 PM | Bioinformatic solutions for variant calling within segmental duplications | Dan Kvitek | Available later |
+| 2:00 PM - 3:30 PM | Making R packages accessible to non-programmer collaborators using the VisRseq platform | Hamid Yournesy  | [presentation slides](https://www.dropbox.com/s/t2cnvstn5iyq7qn/MCM2016_VisRseq_Slides.pdf?dl=1) and [workshop materials](https://github.com/hyounesy/bioc2016.visrseq/blob/master/vignettes/bioc2016.visrseq.pdf) |
 
 ### Monday October 17
+
+**Day schedule**
 
 | Time | Event | Location |
 |------|-------|----------|
@@ -77,10 +79,10 @@ If you tweet, please use #Hackseq16
 | 4:45 PM | Presentation of People's Choice award for favourite project | LSI, UBC |
 | 5:00 PM | hackseq social | TBD |
 
-**Workshops and Talks**
+**Workshops and Talks (Room 1416)**
 
-| Time | Topic | Speaker | Slides | Location |
-|------|-------|---------|-----------|----------|
-| 10:30 AM - 10:55 AM | Can My Computer Read Those Papers For Me? | Jake Lever | Available later | Room 1416 |
-| 11:00 AM - 11:25 AM | Designing and creating user interfaces and APIs for diverse genomic data sources | Dandan Xu | Available later | Room 1416 |
-| 11:30 AM - 12:00 PM | The ENCODE Encyclopedia: The Ultimate User's Guide | Jill E. Moore | Available later | Room 1416 |
+| Time | Topic | Speaker | Slides |
+|------|-------|---------|-----------|
+| 10:30 AM - 10:55 AM | Can My Computer Read Those Papers For Me? | Jake Lever | Available later |
+| 11:00 AM - 11:25 AM | Designing and creating user interfaces and APIs for diverse genomic data sources | Dandan Xu | Available later |
+| 11:30 AM - 12:00 PM | The ENCODE Encyclopedia: The Ultimate User's Guide | Jill E. Moore | Available later |
