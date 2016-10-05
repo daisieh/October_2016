@@ -73,10 +73,10 @@ If you tweet, please use #Hackseq16
 | 9:10 AM | Break into teams and begin working | LSI, UBC |
 | 12:00 PM | Lunch | LSI, UBC |
 | 1:00 PM | Continue working in teams | LSI, UBC |
-| 3:30 PM | Team project presentations (5 min each) | LSI, UBC |
-| 4:30 PM | Voting | LSI, UBC |
-| 4:45 PM | Presentation of People's Choice award (sponsored by 10XGenomics) for favourite project | LSI, UBC |
-| 5:00 PM | hackseq social | TBD |
+| 4:00 PM | Team project presentations (5 min each) | LSI, UBC |
+| 5:00 PM | Voting | LSI, UBC |
+| 5:15 PM | Presentation of People's Choice award (sponsored by 10XGenomics) for favourite project | LSI, UBC |
+| 5:30 PM | hackseq social | TBD |
 
 **Workshops and Talks (Room 1416)** - see [more info](workshop_details.md#monday)
 
