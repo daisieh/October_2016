@@ -10,10 +10,10 @@ SAT OCT 15, 2016
 Room 1416 8am-6pm
 
 SUN OCT 16, 2016
-Room 1410 and Room 1330 (Auditorium) 8am - 6pm
+Room 1410 and Room 1330 8am - 6pm
 
 MON OCT 17, 2016
-Room 1416 11am-6pm and Room 1330 (Auditorium) 2pm-8pm
+Room 1416 11am-6pm; Room 1330 2pm-8pm; LSC03 4pm-6pm
 
 If you tweet, please use #Hackseq16
 
