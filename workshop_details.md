@@ -7,12 +7,13 @@ _Reece Hart_
 
 The [HGVS sequence variant nomenclature](http://varnomen.hgvs.org/) is a set of recommendations for presenting biological sequence variants to humans. Unfortunately, humans aren’t very good at distinguishing formats that are convenient for them from representations that are convenient for computers. As a result, humans put HGVS variant strings into databases and web pages and clinical reports, making it difficult to compute on these variants. The [Python hgvs package](https://bitbucket.org/biocommons/hgvs/) (Apache 2.0 license) parses, formats, validates, and shifts/normalizes variants, and projects (maps) variants between aligned sequences. An important distinguishing feature of the hgvs package is that it correctly handles cases in which the genomic and transcript sequences differ by substitutions or indels.
 
-This workshop will introduce the hgvs package and help attendees get started with using it. To get the most out of the workshop, attendees should bring a laptop with Python installed or the ability to run docker containers. Additional preparation instructions will be provided at a later date.
+This workshop will introduce the hgvs package and help attendees get started with using it. To get the most out of the workshop, attendees should bring a laptop with Python installed or the ability to run docker containers.
 
 Related: [hgvs-eval project](https://github.com/hackseq/hackseq_projects_2016/issues/10)
 
-Estimated time : ~45 minutes
-Slides : Available later
+Estimated time : ~45 minutes | [Draft Slides](https://docs.google.com/presentation/d/1XTvotT6YCsagH0t6tGnCgJhYbHTw1FPwLrPS_sdF_wk/edit#slide=id.g1795fef191_0_51)
+| [Pre-workshop Prep](https://docs.google.com/presentation/d/1XTvotT6YCsagH0t6tGnCgJhYbHTw1FPwLrPS_sdF_wk/edit#slide=id.g1795fef191_0_521)
+
 
 ### Gitting Git: Beginner workshop with Git, Github
 _Amanjeev Sethi_
