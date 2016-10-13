@@ -38,7 +38,7 @@ If you tweet, please use #Hackseq16
 
 | Time | Topic | Slides |
 |------|-------|---------|
-| 11:00 AM - 12:00 PM | Introduction to HGVS Nomenclature and the Python hgvs package | Available later |
+| 11:00 AM - 12:00 PM | Introduction to HGVS Nomenclature and the Python hgvs package | [Slides](https://docs.google.com/presentation/d/1XTvotT6YCsagH0t6tGnCgJhYbHTw1FPwLrPS_sdF_wk/edit#slide=id.g1795fef191_0_51) and [preparation](https://docs.google.com/presentation/d/1XTvotT6YCsagH0t6tGnCgJhYbHTw1FPwLrPS_sdF_wk/edit#slide=id.g1795fef191_0_521) |
 | 2:00 PM - 3:00 PM | Gitting Git: Beginner workshop with Git, Github | [Google slides](https://docs.google.com/presentation/d/1PAhuppzKQS2UM4urXlsU3m8EVa1tFeZ8MLGCQmS6Iv8/edit?usp=sharing) |
 
 ## Sunday October 16
