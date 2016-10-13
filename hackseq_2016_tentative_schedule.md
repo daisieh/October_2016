@@ -74,7 +74,7 @@ If you tweet, please use #Hackseq16
 | 12:00 PM | Lunch | LSI, UBC |
 | 1:00 PM | Continue working in teams | LSI, UBC |
 | 4:00 PM | Team project presentations (5 min each) | LSI, UBC |
-| 5:00 PM | Voting | LSI, UBC |
+| 5:00 PM | Voting & a words from our sponsors  | LSI, UBC |
 | 5:15 PM | Presentation of People's Choice award (sponsored by 10XGenomics) for favourite project | LSI, UBC |
 | 5:30 PM | hackseq social RSVP [here](https://www.eventbrite.ca/e/hackseq-2016-social-tickets-28463797986) | Gallery 2.0, UBC |
 
