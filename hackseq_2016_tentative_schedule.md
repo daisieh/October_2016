@@ -83,5 +83,4 @@ If you tweet, please use #Hackseq16
 | Time | Topic | Slides |
 |------|-------|--------|
 | 10:30 AM - 10:55 AM | Can My Computer Read Those Papers For Me? | Available later |
-| 11:00 AM - 11:25 AM | Designing and creating user interfaces and APIs for diverse genomic data sources | Available later |
-| 11:30 AM - 12:00 PM | The ENCODE Encyclopedia: The Ultimate User's Guide | Available later |
+| 11:00 AM - 11:30 AM | The ENCODE Encyclopedia: The Ultimate User's Guide | Available later |

@@ -64,12 +64,6 @@ How easy is it to build a new knowledgebase from scratch for a particular biolog
 Estimated time: 20-30 minutes
 Slides: Available later
 
-### Designing and creating user interfaces and APIs for diverse genomic data sources
-_Dandan Xu_
-
-Estimated time: 15 - 30 minutes
-Slides: Available later
-
 ### The ENCODE Encyclopedia: The Ultimate User's Guide
 _Jill E. Moore_
 
